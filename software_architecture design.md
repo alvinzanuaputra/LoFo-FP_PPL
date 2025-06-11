@@ -38,6 +38,8 @@ class User extends Authenticatable
 }
 ```
 
+
+
 ### 1.2 Item Models
 ```php
 // app/Models/LostItem.php
