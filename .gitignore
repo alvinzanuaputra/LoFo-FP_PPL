@@ -1,12 +1,55 @@
+# File proyek spesifik
 FP_PPL_PROGRESS_KELOMPOK15.pdf
 FPppl.docx
 linktugas.txt
 
-use_case.md
+# File desain dan dokumentasi
 syntax.php
 design_pattern.md
-
 activity_diagram.md
-
 class_diagram.md
+use_case.md
 
+# Laravel specific
+/vendor/
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+
+# Composer
+composer.lock
+composer.phar
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDE dan Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Sistem Operasi
+.DS_Store
+Thumbs.db
+
+# Log dan Cache
+/storage/*.key
+/storage/logs/
+/storage/framework/cache/
+/storage/framework/sessions/
+/storage/framework/views/
+
+# Direktori Build
+/public/hot
+/public/storage
+/public/build
+/public/mix-manifest.json
+
+# Konfigurasi Deployment
+/deploy.sh
+/deployment.yaml
