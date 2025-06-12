@@ -53,3 +53,6 @@ Thumbs.db
 # Konfigurasi Deployment
 /deploy.sh
 /deployment.yaml
+
+
+t.txt
